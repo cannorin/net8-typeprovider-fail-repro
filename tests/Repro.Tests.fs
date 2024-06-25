@@ -1,6 +1,6 @@
 module ReproTests
 
-open MyNamespace
+open Repro
 open NUnit.Framework
 
 [<Test>]

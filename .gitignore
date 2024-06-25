@@ -46,3 +46,5 @@ msbuild.wrn
 .paket/
 paket-files/
 packages/
+
+.fake
